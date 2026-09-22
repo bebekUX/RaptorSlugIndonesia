@@ -1,4 +1,5 @@
 
+
 /* =========================================
    RAPTOR SLUG INDONESIA
 ========================================= */
@@ -73,6 +74,7 @@ a {
     color: inherit;
 
 }
+
 
 
 
@@ -236,7 +238,7 @@ a {
             rgba(0,0,0,0.3)
         ),
 
-        url("../images/hero.png")
+        url("../images/hero.jpg")
         center / cover no-repeat;
 
 }
