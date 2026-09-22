@@ -238,26 +238,8 @@ a {
             rgba(0,0,0,0.3)
         ),
 
-        url("/images/hero.jpg")
+        url("../images/hero.jpg")
         center / cover no-repeat;
-
-}
-
-
-.hero-overlay {
-
-    position: absolute;
-
-    inset: 0;
-
-    background:
-
-        linear-gradient(
-            180deg,
-            rgba(0,0,0,0.2),
-            transparent 60%,
-            rgba(0,0,0,0.9)
-        );
 
 }
 
